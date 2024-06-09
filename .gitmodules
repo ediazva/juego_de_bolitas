@@ -1,0 +1,3 @@
+[submodule "mice"]
+	path = mice
+	url = https://github.com/doomed-phobos/mice.git
